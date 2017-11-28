@@ -57,7 +57,14 @@ Each *Consumer* expect a response in a specific format from
 @title[Many consumers rely on provider]
 #### Many Consumers rely on a single Provider
 
----?image=assets/current-services.png&size=auto 60%
++++?image=assets/current-services.png&size=auto 60%
+<!-- .slide: data-background-transition="none" -->
++++?image=assets/current-services1.png&size=auto 60%
+<!-- .slide: data-background-transition="none" -->
++++?image=assets/current-services2.png&size=auto 60%
+<!-- .slide: data-background-transition="none" -->
++++?image=assets/current-services3.png&size=auto 60%
+<!-- .slide: data-background-transition="none" -->
 
 +++
 @title[Another Example]
@@ -139,7 +146,6 @@ Pact is a testing tool that helps you write Contracts, and guarantees those Cont
 * Modify components with agility and quick feedback on breakages
 * Have confidence that all services in your system will communicate together
 * Throw away integration tests
-* 
 
 +++
 
