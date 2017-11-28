@@ -38,13 +38,12 @@ Each *Consumer* expect a response in a specific format from
 <span style="font-size:0.6em; color:gray">Provider ?</span>
 
 +++
-@title[Present From Source]
+@title[Definiton]
 
-#### Present Source Directly From Your Repo
-
-<br>
+#### Definiton
 
 **Provider** : Represents a Micro Service, API, Third party API, Database.
+<br>
 **Consumer** : Front-end, Mobile app, Hardware consuming our API
 
 ---
@@ -58,7 +57,7 @@ Each *Consumer* expect a response in a specific format from
 @title[Many consumers rely on provider]
 #### Many Consumers rely on a single Provider
 
-![Current Stack](assets/current-services.png)
+![Current Stack](assets/current-services.png&size=auto 60%)
 
 +++
 @title[Another Example]
