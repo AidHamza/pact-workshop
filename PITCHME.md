@@ -9,14 +9,14 @@
 <span style="font-size:0.6em; color:gray">Weekend.</span> |
 <span style="font-size:0.6em; color:gray">3AM</span>
 
----
++++
 @title[Go Fullscreen]
 
 ## Support called the on-call person!
 Problem in *PHP API*   
 On-call deployed a **Hotfix** affecting the API output.
 
----
++++
 
 ## Disaster!
 <span style="font-size:0.6em; color:red">iOS app not retreiving ads.</span>
@@ -57,7 +57,7 @@ Each *Consumer* expect a response in a specific format from
 @title[Many consumers rely on provider]
 #### Many Consumers rely on a single Provider
 
-![Current Stack](assets/current-services.png&size=auto 60%)
+---?image=assets/current-services.png&size=auto 60%
 
 +++
 @title[Another Example]
